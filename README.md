@@ -4,7 +4,7 @@ A responsive multi-page blog website built using **HTML5**, **CSS3**, and **Java
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live website](https://your-deployment-link.com)
+🔗 [Click here to view the live website]([https://your-deployment-link.com](https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-yvonne-njoroge/)
 
 ---
 
